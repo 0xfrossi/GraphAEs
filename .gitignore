@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+blocks_data/
+logistic_data/
+depots_data/
+goal_rec_utils/
+goal_rec_utils.egg-info/
+crazione_dataset.ipynb
+setup.py
+dist/
+build/
