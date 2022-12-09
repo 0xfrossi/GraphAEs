@@ -128,9 +128,14 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-blocks_data/
-logistic_data/
-depots_data/
+blocks_data/*
+logistic_data/*
+depots_data/*
+
+!blocks_data/dataset.py
+!logistic_data/dataset.py
+!depots_data/dataset.py
+
 goal_rec_utils/
 goal_rec_utils.egg-info/
 crazione_dataset.ipynb
