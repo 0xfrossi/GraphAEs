@@ -1,0 +1,474 @@
+Train epoch 1 loss: 0.27364 
+Train epoch 1 accuracy adj mat. : 0.92766 
+Train epoch 1 accuracy mat. type 'at1': 0.97186 
+Train epoch 1 accuracy mat. type 'at2': 0.89588 
+Train epoch 1 accuracy mat. type 'empty1': 0.95098 
+ Adj mat. Reconstructed 1311 out of 140000 graphs.
+ Type 'at1' Reconstructed 107780 out of 140000 graphs.
+ Type 'at2' Reconstructed 738 out of 140000 graphs.
+ Type 'empty1' Reconstructed 89255 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 669 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 2 loss: 0.06770 
+Train epoch 2 accuracy adj mat. : 0.97902 
+Train epoch 2 accuracy mat. type 'at1': 1.00000 
+Train epoch 2 accuracy mat. type 'at2': 0.97587 
+Train epoch 2 accuracy mat. type 'empty1': 0.99998 
+ Adj mat. Reconstructed 5340 out of 140000 graphs.
+ Type 'at1' Reconstructed 139793 out of 140000 graphs.
+ Type 'at2' Reconstructed 3792 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139023 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 3605 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 3 loss: 0.04660 
+Train epoch 3 accuracy adj mat. : 0.98260 
+Train epoch 3 accuracy mat. type 'at1': 1.00000 
+Train epoch 3 accuracy mat. type 'at2': 0.97986 
+Train epoch 3 accuracy mat. type 'empty1': 0.99994 
+ Adj mat. Reconstructed 8682 out of 140000 graphs.
+ Type 'at1' Reconstructed 139935 out of 140000 graphs.
+ Type 'at2' Reconstructed 5901 out of 140000 graphs.
+ Type 'empty1' Reconstructed 137419 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 5596 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 4 loss: 0.03822 
+Train epoch 4 accuracy adj mat. : 0.98425 
+Train epoch 4 accuracy mat. type 'at1': 1.00000 
+Train epoch 4 accuracy mat. type 'at2': 0.98254 
+Train epoch 4 accuracy mat. type 'empty1': 0.99998 
+ Adj mat. Reconstructed 10901 out of 140000 graphs.
+ Type 'at1' Reconstructed 139985 out of 140000 graphs.
+ Type 'at2' Reconstructed 8277 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139315 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 8005 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 5 loss: 0.03515 
+Train epoch 5 accuracy adj mat. : 0.98497 
+Train epoch 5 accuracy mat. type 'at1': 1.00000 
+Train epoch 5 accuracy mat. type 'at2': 0.98348 
+Train epoch 5 accuracy mat. type 'empty1': 0.99999 
+ Adj mat. Reconstructed 12668 out of 140000 graphs.
+ Type 'at1' Reconstructed 139990 out of 140000 graphs.
+ Type 'at2' Reconstructed 9581 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139511 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 9308 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 6 loss: 0.03275 
+Train epoch 6 accuracy adj mat. : 0.98651 
+Train epoch 6 accuracy mat. type 'at1': 1.00000 
+Train epoch 6 accuracy mat. type 'at2': 0.98409 
+Train epoch 6 accuracy mat. type 'empty1': 0.99990 
+ Adj mat. Reconstructed 15986 out of 140000 graphs.
+ Type 'at1' Reconstructed 139997 out of 140000 graphs.
+ Type 'at2' Reconstructed 10856 out of 140000 graphs.
+ Type 'empty1' Reconstructed 136580 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 10493 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Test epoch 6 accuracy adj mat. : 0.98911 
+Test epoch 6 accuracy mat. type 'at1': 1.00000 
+Test epoch 6 accuracy mat. type 'at2': 0.98613 
+Test epoch 6 accuracy mat. type 'empty1': 0.99980 
+ Adj mat. Reconstructed 1581 out of 10000 graphs.
+ Type 'at1' Reconstructed 10000 out of 10000 graphs.
+ Type 'at2' Reconstructed 1023 out of 10000 graphs.
+ Type 'empty1' Reconstructed 9365 out of 10000 graphs.
+Graphs with all properties reconstructed at 100%: 999 out of 10000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 7 loss: 0.02674 
+Train epoch 7 accuracy adj mat. : 0.98921 
+Train epoch 7 accuracy mat. type 'at1': 1.00000 
+Train epoch 7 accuracy mat. type 'at2': 0.98726 
+Train epoch 7 accuracy mat. type 'empty1': 0.99989 
+ Adj mat. Reconstructed 21237 out of 140000 graphs.
+ Type 'at1' Reconstructed 139999 out of 140000 graphs.
+ Type 'at2' Reconstructed 16043 out of 140000 graphs.
+ Type 'empty1' Reconstructed 135535 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 15443 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 8 loss: 0.02366 
+Train epoch 8 accuracy adj mat. : 0.99040 
+Train epoch 8 accuracy mat. type 'at1': 1.00000 
+Train epoch 8 accuracy mat. type 'at2': 0.98885 
+Train epoch 8 accuracy mat. type 'empty1': 0.99996 
+ Adj mat. Reconstructed 25428 out of 140000 graphs.
+ Type 'at1' Reconstructed 140000 out of 140000 graphs.
+ Type 'at2' Reconstructed 19636 out of 140000 graphs.
+ Type 'empty1' Reconstructed 138395 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 19162 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 9 loss: 0.02008 
+Train epoch 9 accuracy adj mat. : 0.99192 
+Train epoch 9 accuracy mat. type 'at1': 1.00000 
+Train epoch 9 accuracy mat. type 'at2': 0.99041 
+Train epoch 9 accuracy mat. type 'empty1': 0.99998 
+ Adj mat. Reconstructed 32263 out of 140000 graphs.
+ Type 'at1' Reconstructed 139999 out of 140000 graphs.
+ Type 'at2' Reconstructed 24486 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139255 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 23976 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 10 loss: 0.01830 
+Train epoch 10 accuracy adj mat. : 0.99276 
+Train epoch 10 accuracy mat. type 'at1': 1.00000 
+Train epoch 10 accuracy mat. type 'at2': 0.99119 
+Train epoch 10 accuracy mat. type 'empty1': 0.99995 
+ Adj mat. Reconstructed 36749 out of 140000 graphs.
+ Type 'at1' Reconstructed 140000 out of 140000 graphs.
+ Type 'at2' Reconstructed 27528 out of 140000 graphs.
+ Type 'empty1' Reconstructed 137649 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 26917 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 11 loss: 0.01604 
+Train epoch 11 accuracy adj mat. : 0.99373 
+Train epoch 11 accuracy mat. type 'at1': 1.00000 
+Train epoch 11 accuracy mat. type 'at2': 0.99231 
+Train epoch 11 accuracy mat. type 'empty1': 0.99996 
+ Adj mat. Reconstructed 41622 out of 140000 graphs.
+ Type 'at1' Reconstructed 139999 out of 140000 graphs.
+ Type 'at2' Reconstructed 31936 out of 140000 graphs.
+ Type 'empty1' Reconstructed 138326 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 31300 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Test epoch 11 accuracy adj mat. : 0.99516 
+Test epoch 11 accuracy mat. type 'at1': 1.00000 
+Test epoch 11 accuracy mat. type 'at2': 0.99362 
+Test epoch 11 accuracy mat. type 'empty1': 1.00000 
+ Adj mat. Reconstructed 3676 out of 10000 graphs.
+ Type 'at1' Reconstructed 10000 out of 10000 graphs.
+ Type 'at2' Reconstructed 3005 out of 10000 graphs.
+ Type 'empty1' Reconstructed 10000 out of 10000 graphs.
+Graphs with all properties reconstructed at 100%: 2975 out of 10000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 12 loss: 0.01418 
+Train epoch 12 accuracy adj mat. : 0.99482 
+Train epoch 12 accuracy mat. type 'at1': 1.00000 
+Train epoch 12 accuracy mat. type 'at2': 0.99304 
+Train epoch 12 accuracy mat. type 'empty1': 0.99999 
+ Adj mat. Reconstructed 49113 out of 140000 graphs.
+ Type 'at1' Reconstructed 140000 out of 140000 graphs.
+ Type 'at2' Reconstructed 36096 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139564 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 35376 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 13 loss: 0.01216 
+Train epoch 13 accuracy adj mat. : 0.99588 
+Train epoch 13 accuracy mat. type 'at1': 1.00000 
+Train epoch 13 accuracy mat. type 'at2': 0.99399 
+Train epoch 13 accuracy mat. type 'empty1': 0.99998 
+ Adj mat. Reconstructed 57841 out of 140000 graphs.
+ Type 'at1' Reconstructed 139997 out of 140000 graphs.
+ Type 'at2' Reconstructed 42377 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139210 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 41489 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 14 loss: 0.00980 
+Train epoch 14 accuracy adj mat. : 0.99700 
+Train epoch 14 accuracy mat. type 'at1': 1.00000 
+Train epoch 14 accuracy mat. type 'at2': 0.99525 
+Train epoch 14 accuracy mat. type 'empty1': 0.99999 
+ Adj mat. Reconstructed 69595 out of 140000 graphs.
+ Type 'at1' Reconstructed 139999 out of 140000 graphs.
+ Type 'at2' Reconstructed 51038 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139395 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 49969 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 15 loss: 0.00823 
+Train epoch 15 accuracy adj mat. : 0.99798 
+Train epoch 15 accuracy mat. type 'at1': 1.00000 
+Train epoch 15 accuracy mat. type 'at2': 0.99640 
+Train epoch 15 accuracy mat. type 'empty1': 0.99998 
+ Adj mat. Reconstructed 83366 out of 140000 graphs.
+ Type 'at1' Reconstructed 139999 out of 140000 graphs.
+ Type 'at2' Reconstructed 60502 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139188 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 59031 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 16 loss: 0.00555 
+Train epoch 16 accuracy adj mat. : 0.99876 
+Train epoch 16 accuracy mat. type 'at1': 1.00000 
+Train epoch 16 accuracy mat. type 'at2': 0.99766 
+Train epoch 16 accuracy mat. type 'empty1': 0.99999 
+ Adj mat. Reconstructed 98623 out of 140000 graphs.
+ Type 'at1' Reconstructed 140000 out of 140000 graphs.
+ Type 'at2' Reconstructed 75727 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139677 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 74186 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Test epoch 16 accuracy adj mat. : 0.99926 
+Test epoch 16 accuracy mat. type 'at1': 1.00000 
+Test epoch 16 accuracy mat. type 'at2': 0.99842 
+Test epoch 16 accuracy mat. type 'empty1': 1.00000 
+ Adj mat. Reconstructed 7948 out of 10000 graphs.
+ Type 'at1' Reconstructed 10000 out of 10000 graphs.
+ Type 'at2' Reconstructed 6300 out of 10000 graphs.
+ Type 'empty1' Reconstructed 10000 out of 10000 graphs.
+Graphs with all properties reconstructed at 100%: 6300 out of 10000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 17 loss: 0.00589 
+Train epoch 17 accuracy adj mat. : 0.99879 
+Train epoch 17 accuracy mat. type 'at1': 0.99998 
+Train epoch 17 accuracy mat. type 'at2': 0.99777 
+Train epoch 17 accuracy mat. type 'empty1': 0.99998 
+ Adj mat. Reconstructed 100446 out of 140000 graphs.
+ Type 'at1' Reconstructed 139518 out of 140000 graphs.
+ Type 'at2' Reconstructed 78834 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139245 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 77315 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 18 loss: 0.00674 
+Train epoch 18 accuracy adj mat. : 0.99873 
+Train epoch 18 accuracy mat. type 'at1': 0.99997 
+Train epoch 18 accuracy mat. type 'at2': 0.99762 
+Train epoch 18 accuracy mat. type 'empty1': 0.99997 
+ Adj mat. Reconstructed 100210 out of 140000 graphs.
+ Type 'at1' Reconstructed 139212 out of 140000 graphs.
+ Type 'at2' Reconstructed 78914 out of 140000 graphs.
+ Type 'empty1' Reconstructed 138908 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 77388 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 19 loss: 0.00403 
+Train epoch 19 accuracy adj mat. : 0.99915 
+Train epoch 19 accuracy mat. type 'at1': 1.00000 
+Train epoch 19 accuracy mat. type 'at2': 0.99847 
+Train epoch 19 accuracy mat. type 'empty1': 1.00000 
+ Adj mat. Reconstructed 109193 out of 140000 graphs.
+ Type 'at1' Reconstructed 140000 out of 140000 graphs.
+ Type 'at2' Reconstructed 91640 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139833 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 90451 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 20 loss: 0.00356 
+Train epoch 20 accuracy adj mat. : 0.99926 
+Train epoch 20 accuracy mat. type 'at1': 1.00000 
+Train epoch 20 accuracy mat. type 'at2': 0.99870 
+Train epoch 20 accuracy mat. type 'empty1': 0.99999 
+ Adj mat. Reconstructed 112524 out of 140000 graphs.
+ Type 'at1' Reconstructed 140000 out of 140000 graphs.
+ Type 'at2' Reconstructed 96750 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139471 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 95414 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 21 loss: 0.00300 
+Train epoch 21 accuracy adj mat. : 0.99939 
+Train epoch 21 accuracy mat. type 'at1': 1.00000 
+Train epoch 21 accuracy mat. type 'at2': 0.99891 
+Train epoch 21 accuracy mat. type 'empty1': 0.99998 
+ Adj mat. Reconstructed 116430 out of 140000 graphs.
+ Type 'at1' Reconstructed 139997 out of 140000 graphs.
+ Type 'at2' Reconstructed 101986 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139181 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 100607 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Test epoch 21 accuracy adj mat. : 0.99948 
+Test epoch 21 accuracy mat. type 'at1': 1.00000 
+Test epoch 21 accuracy mat. type 'at2': 0.99881 
+Test epoch 21 accuracy mat. type 'empty1': 1.00000 
+ Adj mat. Reconstructed 8442 out of 10000 graphs.
+ Type 'at1' Reconstructed 10000 out of 10000 graphs.
+ Type 'at2' Reconstructed 6707 out of 10000 graphs.
+ Type 'empty1' Reconstructed 9989 out of 10000 graphs.
+Graphs with all properties reconstructed at 100%: 6671 out of 10000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 22 loss: 0.00320 
+Train epoch 22 accuracy adj mat. : 0.99938 
+Train epoch 22 accuracy mat. type 'at1': 0.99999 
+Train epoch 22 accuracy mat. type 'at2': 0.99890 
+Train epoch 22 accuracy mat. type 'empty1': 0.99998 
+ Adj mat. Reconstructed 116252 out of 140000 graphs.
+ Type 'at1' Reconstructed 139712 out of 140000 graphs.
+ Type 'at2' Reconstructed 101895 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139225 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 100550 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 23 loss: 0.00233 
+Train epoch 23 accuracy adj mat. : 0.99961 
+Train epoch 23 accuracy mat. type 'at1': 1.00000 
+Train epoch 23 accuracy mat. type 'at2': 0.99921 
+Train epoch 23 accuracy mat. type 'empty1': 0.99999 
+ Adj mat. Reconstructed 123960 out of 140000 graphs.
+ Type 'at1' Reconstructed 139994 out of 140000 graphs.
+ Type 'at2' Reconstructed 110702 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139368 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 109377 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 24 loss: 0.00246 
+Train epoch 24 accuracy adj mat. : 0.99965 
+Train epoch 24 accuracy mat. type 'at1': 0.99999 
+Train epoch 24 accuracy mat. type 'at2': 0.99917 
+Train epoch 24 accuracy mat. type 'empty1': 0.99997 
+ Adj mat. Reconstructed 126117 out of 140000 graphs.
+ Type 'at1' Reconstructed 139564 out of 140000 graphs.
+ Type 'at2' Reconstructed 110729 out of 140000 graphs.
+ Type 'empty1' Reconstructed 138821 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 109411 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 25 loss: 0.00147 
+Train epoch 25 accuracy adj mat. : 0.99979 
+Train epoch 25 accuracy mat. type 'at1': 1.00000 
+Train epoch 25 accuracy mat. type 'at2': 0.99952 
+Train epoch 25 accuracy mat. type 'empty1': 1.00000 
+ Adj mat. Reconstructed 131128 out of 140000 graphs.
+ Type 'at1' Reconstructed 140000 out of 140000 graphs.
+ Type 'at2' Reconstructed 121063 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139897 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 120331 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 26 loss: 0.00122 
+Train epoch 26 accuracy adj mat. : 0.99982 
+Train epoch 26 accuracy mat. type 'at1': 1.00000 
+Train epoch 26 accuracy mat. type 'at2': 0.99961 
+Train epoch 26 accuracy mat. type 'empty1': 1.00000 
+ Adj mat. Reconstructed 132265 out of 140000 graphs.
+ Type 'at1' Reconstructed 140000 out of 140000 graphs.
+ Type 'at2' Reconstructed 124276 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139963 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 123676 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Test epoch 26 accuracy adj mat. : 0.99989 
+Test epoch 26 accuracy mat. type 'at1': 1.00000 
+Test epoch 26 accuracy mat. type 'at2': 0.99983 
+Test epoch 26 accuracy mat. type 'empty1': 1.00000 
+ Adj mat. Reconstructed 9652 out of 10000 graphs.
+ Type 'at1' Reconstructed 10000 out of 10000 graphs.
+ Type 'at2' Reconstructed 9454 out of 10000 graphs.
+ Type 'empty1' Reconstructed 10000 out of 10000 graphs.
+Graphs with all properties reconstructed at 100%: 9453 out of 10000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 27 loss: 0.00315 
+Train epoch 27 accuracy adj mat. : 0.99943 
+Train epoch 27 accuracy mat. type 'at1': 0.99999 
+Train epoch 27 accuracy mat. type 'at2': 0.99897 
+Train epoch 27 accuracy mat. type 'empty1': 0.99999 
+ Adj mat. Reconstructed 119433 out of 140000 graphs.
+ Type 'at1' Reconstructed 139621 out of 140000 graphs.
+ Type 'at2' Reconstructed 106301 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139476 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 105277 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 28 loss: 0.00100 
+Train epoch 28 accuracy adj mat. : 0.99985 
+Train epoch 28 accuracy mat. type 'at1': 1.00000 
+Train epoch 28 accuracy mat. type 'at2': 0.99967 
+Train epoch 28 accuracy mat. type 'empty1': 1.00000 
+ Adj mat. Reconstructed 133507 out of 140000 graphs.
+ Type 'at1' Reconstructed 140000 out of 140000 graphs.
+ Type 'at2' Reconstructed 126595 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139999 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 126087 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 29 loss: 0.00261 
+Train epoch 29 accuracy adj mat. : 0.99968 
+Train epoch 29 accuracy mat. type 'at1': 0.99999 
+Train epoch 29 accuracy mat. type 'at2': 0.99935 
+Train epoch 29 accuracy mat. type 'empty1': 0.99999 
+ Adj mat. Reconstructed 127929 out of 140000 graphs.
+ Type 'at1' Reconstructed 139721 out of 140000 graphs.
+ Type 'at2' Reconstructed 117820 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139592 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 116709 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 30 loss: 0.00082 
+Train epoch 30 accuracy adj mat. : 0.99988 
+Train epoch 30 accuracy mat. type 'at1': 1.00000 
+Train epoch 30 accuracy mat. type 'at2': 0.99974 
+Train epoch 30 accuracy mat. type 'empty1': 1.00000 
+ Adj mat. Reconstructed 134850 out of 140000 graphs.
+ Type 'at1' Reconstructed 140000 out of 140000 graphs.
+ Type 'at2' Reconstructed 128872 out of 140000 graphs.
+ Type 'empty1' Reconstructed 140000 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 128425 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 31 loss: 0.00077 
+Train epoch 31 accuracy adj mat. : 0.99989 
+Train epoch 31 accuracy mat. type 'at1': 1.00000 
+Train epoch 31 accuracy mat. type 'at2': 0.99976 
+Train epoch 31 accuracy mat. type 'empty1': 1.00000 
+ Adj mat. Reconstructed 135084 out of 140000 graphs.
+ Type 'at1' Reconstructed 140000 out of 140000 graphs.
+ Type 'at2' Reconstructed 129915 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139994 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 129445 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Test epoch 31 accuracy adj mat. : 0.99992 
+Test epoch 31 accuracy mat. type 'at1': 1.00000 
+Test epoch 31 accuracy mat. type 'at2': 0.99991 
+Test epoch 31 accuracy mat. type 'empty1': 1.00000 
+ Adj mat. Reconstructed 9749 out of 10000 graphs.
+ Type 'at1' Reconstructed 10000 out of 10000 graphs.
+ Type 'at2' Reconstructed 9715 out of 10000 graphs.
+ Type 'empty1' Reconstructed 10000 out of 10000 graphs.
+Graphs with all properties reconstructed at 100%: 9715 out of 10000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 32 loss: 0.00067 
+Train epoch 32 accuracy adj mat. : 0.99990 
+Train epoch 32 accuracy mat. type 'at1': 1.00000 
+Train epoch 32 accuracy mat. type 'at2': 0.99979 
+Train epoch 32 accuracy mat. type 'empty1': 1.00000 
+ Adj mat. Reconstructed 135656 out of 140000 graphs.
+ Type 'at1' Reconstructed 140000 out of 140000 graphs.
+ Type 'at2' Reconstructed 130937 out of 140000 graphs.
+ Type 'empty1' Reconstructed 140000 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 130472 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 33 loss: 0.00069 
+Train epoch 33 accuracy adj mat. : 0.99990 
+Train epoch 33 accuracy mat. type 'at1': 1.00000 
+Train epoch 33 accuracy mat. type 'at2': 0.99979 
+Train epoch 33 accuracy mat. type 'empty1': 1.00000 
+ Adj mat. Reconstructed 135783 out of 140000 graphs.
+ Type 'at1' Reconstructed 140000 out of 140000 graphs.
+ Type 'at2' Reconstructed 130914 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139996 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 130451 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
+Train epoch 34 loss: 0.00067 
+Train epoch 34 accuracy adj mat. : 0.99991 
+Train epoch 34 accuracy mat. type 'at1': 1.00000 
+Train epoch 34 accuracy mat. type 'at2': 0.99979 
+Train epoch 34 accuracy mat. type 'empty1': 1.00000 
+ Adj mat. Reconstructed 136168 out of 140000 graphs.
+ Type 'at1' Reconstructed 140000 out of 140000 graphs.
+ Type 'at2' Reconstructed 130963 out of 140000 graphs.
+ Type 'empty1' Reconstructed 139995 out of 140000 graphs.
+Graphs with all properties reconstructed at 100%: 130457 out of 140000 graphs.
+**************************  END EPOCH  **************************************
+
